@@ -27,3 +27,6 @@ Print both player's moves in the format: `Player (Rock) : CPU (Paper)`
 Check both player's moves: 
 If there is a winner, print the winner, and the program ends. 
 If it's a tie (the computer and player pick the same move), restart the game from step 3
+
+link to repositiory: https://github.com/oriafo/Creating-and-Using-Local-Python-Packages
+
